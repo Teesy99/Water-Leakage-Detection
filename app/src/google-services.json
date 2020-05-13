@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "263009493016",
+    "firebase_url": "https://sensor-data-134f4.firebaseio.com",
+    "project_id": "sensor-data-134f4",
+    "storage_bucket": "sensor-data-134f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263009493016:android:9050c85ed57112cd4f236d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263009493016-2kccqrui3bcob5ekclf8gd749jiif3cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjyydY6ctWFoyHqmwUhUOxH0AO4krSic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263009493016-2kccqrui3bcob5ekclf8gd749jiif3cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263009493016:android:6f9fc56191c285484f236d",
+        "android_client_info": {
+          "package_name": "com.example.newproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263009493016-2kccqrui3bcob5ekclf8gd749jiif3cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjyydY6ctWFoyHqmwUhUOxH0AO4krSic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263009493016-2kccqrui3bcob5ekclf8gd749jiif3cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263009493016:android:f3bc1c4ae734c1294f236d",
+        "android_client_info": {
+          "package_name": "com.example.sensordata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263009493016-2kccqrui3bcob5ekclf8gd749jiif3cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjyydY6ctWFoyHqmwUhUOxH0AO4krSic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263009493016-2kccqrui3bcob5ekclf8gd749jiif3cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
