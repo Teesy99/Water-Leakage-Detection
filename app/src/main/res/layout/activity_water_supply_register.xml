@@ -21,7 +21,7 @@
                 android:id="@+id/textView2"
                 android:layout_width="273dp"
                 android:layout_height="32dp"
-                android:text="REGISTER HERE !!"
+                android:text="REGISTERATION"
                 android:textAlignment="center"
                 android:textColor="#4527A0"
                 android:textSize="20dp"
@@ -41,10 +41,10 @@
                 android:inputType="textPersonName"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.474"
+                app:layout_constraintHorizontal_bias="0.487"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="0.237" />
+                app:layout_constraintVertical_bias="0.236" />
 
             <EditText
                 android:id="@+id/edit_email"
@@ -55,9 +55,10 @@
                 android:inputType="textEmailAddress"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.487"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView2"
-                app:layout_constraintVertical_bias="0.22" />
+                app:layout_constraintVertical_bias="0.223" />
 
             <EditText
                 android:id="@+id/edit_password"
@@ -68,10 +69,10 @@
                 android:inputType="textPassword"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.515"
+                app:layout_constraintHorizontal_bias="0.487"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/edit_name"
-                app:layout_constraintVertical_bias="0.238" />
+                app:layout_constraintVertical_bias="0.228" />
 
             <EditText
                 android:id="@+id/edit_password1"
@@ -82,9 +83,10 @@
                 android:inputType="textPassword"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.487"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/edit_name"
-                app:layout_constraintVertical_bias="0.401" />
+                app:layout_constraintVertical_bias="0.404" />
 
             <Button
                 android:id="@+id/edit_button"
@@ -94,10 +96,10 @@
                 android:text="Button"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.497"
+                app:layout_constraintHorizontal_bias="0.479"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/edit_password1"
-                app:layout_constraintVertical_bias="0.0" />
+                app:layout_constraintVertical_bias="1.0" />
 
             <TextView
                 android:id="@+id/edit_login"
@@ -105,16 +107,15 @@
                 android:layout_height="35dp"
                 android:background="#EDF3F2"
                 android:clickable="true"
-                android:text="Have account!! Log In"
+                android:text="Have account? Log In"
                 android:textAlignment="center"
                 android:textColor="#DD1616"
                 android:textSize="18sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.543"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/edit_button"
-                app:layout_constraintVertical_bias="0.248" />
+                app:layout_constraintVertical_bias="0.202" />
 
             <TextView
                 android:id="@+id/textView7"
@@ -124,10 +125,10 @@
                 android:textColor="#DD1616"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.468"
+                app:layout_constraintHorizontal_bias="0.501"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="0.168" />
+                app:layout_constraintVertical_bias="0.16" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </androidx.core.widget.NestedScrollView>
